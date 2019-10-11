@@ -24,3 +24,4 @@ This application is developed under Developer Student Club leading by [Akshay Na
 <p align="center">
  <img src="Gym_Buddy2/Screenshots/therteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/forteen.png" height = "400" width="200" margin="10">   
 </p>
+test
